@@ -39,7 +39,14 @@ li {
   align-items: center;
 }
 
+a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
 .link {
+  text-transform: uppercase;
   display: flex;
   align-items: center;
   height: 60px;
