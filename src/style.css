@@ -72,16 +72,12 @@ body {
   margin-right: 20px;
 }
 
-.last-link {
+.links:last-child {
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 
 .is-active {
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
   color: var(--animated-text-color);
   position: relative;
 }
